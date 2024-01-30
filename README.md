@@ -18,7 +18,7 @@ git clone https://github.com/Hridoy99a/ip-tracking-
 
 How to run:
 
-cd IP-info
+cd ip-tracking-
 
 bash install.sh
 
